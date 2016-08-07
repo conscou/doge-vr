@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: cfca9af79e7bc51408269439bc699c02
+timeCreated: 1470580866
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: bottom tail
+    100004: bottom tail.004
+    100006: bottom tail.005
+    100008: bottom tail.006
+    100010: bottom tail.006_end
+    100012: bottom tail.007
+    100014: bottom tail.008
+    100016: bottom tail.009
+    100018: bottom tail.009_end
+    100020: bottom tail.010
+    100022: bottom tail.011
+    100024: bottom tail.012
+    100026: bottom tail.013
+    100028: bottom tail.014
+    100030: bottom tail.015
+    100032: bottom tail.015_end
+    100034: bottom tail.016
+    100036: bottom tail.016_end
+    100038: bottom tail.017
+    100040: bottom tail.018
+    100042: bottom tail.019
+    100044: bottom tail.019_end
+    100046: Cylinder
+    100048: //RootNode
+    100050: DON'TMOVE
+    100052: lowerback
+    100054: top tail
+    100056: top tail_end
+    100058: upperback
+    400000: Armature
+    400002: bottom tail
+    400004: bottom tail.004
+    400006: bottom tail.005
+    400008: bottom tail.006
+    400010: bottom tail.006_end
+    400012: bottom tail.007
+    400014: bottom tail.008
+    400016: bottom tail.009
+    400018: bottom tail.009_end
+    400020: bottom tail.010
+    400022: bottom tail.011
+    400024: bottom tail.012
+    400026: bottom tail.013
+    400028: bottom tail.014
+    400030: bottom tail.015
+    400032: bottom tail.015_end
+    400034: bottom tail.016
+    400036: bottom tail.016_end
+    400038: bottom tail.017
+    400040: bottom tail.018
+    400042: bottom tail.019
+    400044: bottom tail.019_end
+    400046: Cylinder
+    400048: //RootNode
+    400050: DON'TMOVE
+    400052: lowerback
+    400054: top tail
+    400056: top tail_end
+    400058: upperback
+    4300000: Cylinder
+    9500000: //RootNode
+    13700000: Cylinder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
